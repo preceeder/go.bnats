@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/nats-io/nats.go"
-	"github.com/preceeder/go/bnats"
+	bnats "github.com/preceeder/go.bnats"
 	"log"
 	"log/slog"
 	"time"
